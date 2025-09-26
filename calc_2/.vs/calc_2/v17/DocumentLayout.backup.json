@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043A\u043E\u043B\u044F\u0433\u0430\\c#\\calc_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C744E99D-C181-4B36-AC90-C1273B23F30F}|calc_2\\calc_2.csproj|c:\\\u043A\u043E\u043B\u044F\u0433\u0430\\c#\\calc_2\\calc_2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744E99D-C181-4B36-AC90-C1273B23F30F}|calc_2\\calc_2.csproj|solutionrelative:calc_2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744E99D-C181-4B36-AC90-C1273B23F30F}|calc_2\\calc_2.csproj|C:\\\u043A\u043E\u043B\u044F\u0433\u0430\\c#\\calc_2\\calc_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C744E99D-C181-4B36-AC90-C1273B23F30F}|calc_2\\calc_2.csproj|solutionrelative:calc_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C744E99D-C181-4B36-AC90-C1273B23F30F}|calc_2\\calc_2.csproj|C:\\\u043A\u043E\u043B\u044F\u0433\u0430\\c#\\calc_2\\calc_2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C744E99D-C181-4B36-AC90-C1273B23F30F}|calc_2\\calc_2.csproj|solutionrelative:calc_2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u043A\u043E\u043B\u044F\u0433\u0430\\c#\\calc_2\\calc_2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "calc_2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\\u043A\u043E\u043B\u044F\u0433\u0430\\c#\\calc_2\\calc_2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "calc_2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:00:42.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\\u043A\u043E\u043B\u044F\u0433\u0430\\c#\\calc_2\\calc_2\\App.xaml",
+              "RelativeDocumentMoniker": "calc_2\\App.xaml",
+              "ToolTip": "C:\\\u043A\u043E\u043B\u044F\u0433\u0430\\c#\\calc_2\\calc_2\\App.xaml",
+              "RelativeToolTip": "calc_2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T11:01:22.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\\u043A\u043E\u043B\u044F\u0433\u0430\\c#\\calc_2\\calc_2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "calc_2\\MainWindow.xaml",
+              "ToolTip": "C:\\\u043A\u043E\u043B\u044F\u0433\u0430\\c#\\calc_2\\calc_2\\MainWindow.xaml",
+              "RelativeToolTip": "calc_2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T11:00:43.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

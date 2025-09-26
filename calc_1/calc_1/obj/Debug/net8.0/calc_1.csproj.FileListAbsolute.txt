@@ -1,0 +1,14 @@
+C:\коляга\c#\calc_1\calc_1\bin\Debug\net8.0\calc_1.exe
+C:\коляга\c#\calc_1\calc_1\bin\Debug\net8.0\calc_1.deps.json
+C:\коляга\c#\calc_1\calc_1\bin\Debug\net8.0\calc_1.runtimeconfig.json
+C:\коляга\c#\calc_1\calc_1\bin\Debug\net8.0\calc_1.dll
+C:\коляга\c#\calc_1\calc_1\bin\Debug\net8.0\calc_1.pdb
+C:\коляга\c#\calc_1\calc_1\obj\Debug\net8.0\calc_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\коляга\c#\calc_1\calc_1\obj\Debug\net8.0\calc_1.AssemblyInfoInputs.cache
+C:\коляга\c#\calc_1\calc_1\obj\Debug\net8.0\calc_1.AssemblyInfo.cs
+C:\коляга\c#\calc_1\calc_1\obj\Debug\net8.0\calc_1.csproj.CoreCompileInputs.cache
+C:\коляга\c#\calc_1\calc_1\obj\Debug\net8.0\calc_1.dll
+C:\коляга\c#\calc_1\calc_1\obj\Debug\net8.0\refint\calc_1.dll
+C:\коляга\c#\calc_1\calc_1\obj\Debug\net8.0\calc_1.pdb
+C:\коляга\c#\calc_1\calc_1\obj\Debug\net8.0\calc_1.genruntimeconfig.cache
+C:\коляга\c#\calc_1\calc_1\obj\Debug\net8.0\ref\calc_1.dll

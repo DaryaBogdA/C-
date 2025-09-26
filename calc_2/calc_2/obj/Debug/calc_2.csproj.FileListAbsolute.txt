@@ -1,0 +1,16 @@
+C:\коляга\c#\calc_2\calc_2\bin\Debug\calc_2.exe.config
+C:\коляга\c#\calc_2\calc_2\bin\Debug\calc_2.exe
+C:\коляга\c#\calc_2\calc_2\bin\Debug\calc_2.pdb
+C:\коляга\c#\calc_2\calc_2\obj\Debug\calc_2.csproj.AssemblyReference.cache
+C:\коляга\c#\calc_2\calc_2\obj\Debug\MainWindow.g.cs
+C:\коляга\c#\calc_2\calc_2\obj\Debug\App.g.cs
+C:\коляга\c#\calc_2\calc_2\obj\Debug\calc_2_MarkupCompile.cache
+C:\коляга\c#\calc_2\calc_2\obj\Debug\calc_2_MarkupCompile.lref
+C:\коляга\c#\calc_2\calc_2\obj\Debug\MainWindow.baml
+C:\коляга\c#\calc_2\calc_2\obj\Debug\calc_2.g.resources
+C:\коляга\c#\calc_2\calc_2\obj\Debug\calc_2.Properties.Resources.resources
+C:\коляга\c#\calc_2\calc_2\obj\Debug\calc_2.csproj.GenerateResource.cache
+C:\коляга\c#\calc_2\calc_2\obj\Debug\calc_2.csproj.CoreCompileInputs.cache
+C:\коляга\c#\calc_2\calc_2\obj\Debug\calc_2.exe
+C:\коляга\c#\calc_2\calc_2\obj\Debug\calc_2.pdb
+C:\коляга\c#\calc_2\calc_2\obj\Debug\calc_2.exe.config
